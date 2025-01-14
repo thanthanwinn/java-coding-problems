@@ -2,7 +2,7 @@ package com.jdc.ttw;
 
 import java.util.Arrays;
 
-public class Main {
+public class CountingDublicateChar {
 	public static void main(String[] args) {
 		
 		countChar("hello world", 'o');
@@ -20,7 +20,6 @@ public class Main {
 			
 				if (c == arr[i]) {
 					count++;
-				
 			}
 		}
 		if(c == ' ') {
