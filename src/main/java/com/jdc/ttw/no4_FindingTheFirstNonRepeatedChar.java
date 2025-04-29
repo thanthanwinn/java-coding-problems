@@ -1,6 +1,6 @@
 package com.jdc.ttw;
 
-public class FindingTheFirstNonRepeatedChar {
+public class no4_FindingTheFirstNonRepeatedChar {
 	public static void main(String[] args) {
 		findFirstNonRepeatChar("hello helen");
 		

@@ -1,6 +1,6 @@
 package com.jdc.ttw;
 
-public class CheckStringContainOnlyDigits {
+public class no1_CheckStringContainOnlyDigits {
 	
 	public static void main(String[] args) {
 		System.out.println(check("123q"));

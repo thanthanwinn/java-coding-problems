@@ -1,6 +1,6 @@
 package com.jdc.ttw;
 
-public class CountingVowelsAndConsonents {
+public class no3_CountingVowelsAndConsonents {
 	public static void main(String[] args) {
 		count("Helloo");
 	}

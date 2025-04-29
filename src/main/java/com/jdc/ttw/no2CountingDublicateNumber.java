@@ -1,8 +1,6 @@
 package com.jdc.ttw;
 
-import java.util.Arrays;
-
-public class CountingDublicateChar {
+public class no2CountingDublicateNumber {
 	public static void main(String[] args) {
 		
 		countChar("hello world", 'o');

@@ -1,6 +1,6 @@
 package com.jdc.ttw;
 
-public class RemovingWhiteSpaceFromAString {
+public class no5_RemovingWhiteSpaceFromAString {
 	public static void main(String[] args) {
 		System.out.println(remove("Hello World"));
 	}
